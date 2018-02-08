@@ -1,0 +1,2 @@
+# JedlikTsTemplateLive
+typescrypt school project
